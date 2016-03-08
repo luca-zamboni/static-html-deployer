@@ -21,3 +21,5 @@ folder-site/js/ -- all js files
 folder-site/img/ -- all img files
 
 folder-site/fonts/ -- all fonts files
+
+folder-site/include/ -- all include files
